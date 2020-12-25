@@ -16,9 +16,9 @@ body {
 #result {
   display: none;
 }
-#bowling_overs {
+/* #bowling_overs {
   display: none;
-}
+} */
 @media (max-width: 750px) {
   #loading img {
     width: 100%;
